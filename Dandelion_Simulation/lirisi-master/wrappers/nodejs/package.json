@@ -1,0 +1,15 @@
+{
+  "name": "lirisi-example",
+  "version": "1.0.0",
+  "description": "Example Wrapper of LiRiSi Library.",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zdeněk Böhm <zdenek.bohm@nic.cz>",
+  "license": "ISC",
+  "dependencies": {
+    "eckles": "^1.4.1",
+    "lirisi": "file:lirisi"
+  }
+}
